@@ -1,0 +1,14 @@
+NextJS13
+TailwindCSS
+TypeScript
+RapidAPI / Cars by API-Ninjas
+React
+HeadlessUI
+
+-implemented advanced search functionality
+-created filtering capabilities
+-optimized metadata and SEO
+-created custom filters, combo box, and modal elements
+-implemeneted rapidAPI
+-used server side rendering and client side rendering
+-deployed 
